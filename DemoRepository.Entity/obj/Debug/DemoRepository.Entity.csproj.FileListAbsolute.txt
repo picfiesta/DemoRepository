@@ -1,0 +1,4 @@
+D:\Projects\Misc\DemoRepository\DemoRepository.Entity\bin\Debug\DemoRepository.Entity.dll
+D:\Projects\Misc\DemoRepository\DemoRepository.Entity\bin\Debug\DemoRepository.Entity.pdb
+D:\Projects\Misc\DemoRepository\DemoRepository.Entity\obj\Debug\DemoRepository.Entity.dll
+D:\Projects\Misc\DemoRepository\DemoRepository.Entity\obj\Debug\DemoRepository.Entity.pdb

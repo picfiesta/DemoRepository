@@ -1,0 +1,8 @@
+D:\Projects\Misc\DemoRepository\DemoRepository.Data\bin\Debug\DemoRepository.Data.dll
+D:\Projects\Misc\DemoRepository\DemoRepository.Data\bin\Debug\DemoRepository.Data.pdb
+D:\Projects\Misc\DemoRepository\DemoRepository.Data\obj\Debug\DemoRepository.Data.dll
+D:\Projects\Misc\DemoRepository\DemoRepository.Data\obj\Debug\DemoRepository.Data.pdb
+D:\Projects\Misc\DemoRepository\DemoRepository.Data\obj\Debug\DemoRepository.Data.csprojResolveAssemblyReference.cache
+D:\Projects\Misc\DemoRepository\DemoRepository.Data\bin\Debug\DemoRepository.Entity.dll
+D:\Projects\Misc\DemoRepository\DemoRepository.Data\bin\Debug\EntityFramework.dll
+D:\Projects\Misc\DemoRepository\DemoRepository.Data\bin\Debug\DemoRepository.Entity.pdb

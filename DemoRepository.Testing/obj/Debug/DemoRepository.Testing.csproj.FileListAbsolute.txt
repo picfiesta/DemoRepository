@@ -1,0 +1,15 @@
+D:\Projects\Misc\DemoRepository\DemoRepository.Testing\bin\Debug\DemoRepository.Testing.dll.config
+D:\Projects\Misc\DemoRepository\DemoRepository.Testing\bin\Debug\DemoRepository.Testing.dll
+D:\Projects\Misc\DemoRepository\DemoRepository.Testing\bin\Debug\DemoRepository.Testing.pdb
+D:\Projects\Misc\DemoRepository\DemoRepository.Testing\bin\Debug\EntityFramework.dll
+D:\Projects\Misc\DemoRepository\DemoRepository.Testing\bin\Debug\EntityFramework.SqlServer.dll
+D:\Projects\Misc\DemoRepository\DemoRepository.Testing\bin\Debug\EntityFramework.SqlServer.xml
+D:\Projects\Misc\DemoRepository\DemoRepository.Testing\obj\Debug\DemoRepository.Testing.csprojResolveAssemblyReference.cache
+D:\Projects\Misc\DemoRepository\DemoRepository.Testing\obj\Debug\DemoRepository.Testing.dll
+D:\Projects\Misc\DemoRepository\DemoRepository.Testing\obj\Debug\DemoRepository.Testing.pdb
+D:\Projects\Misc\DemoRepository\DemoRepository.Testing\bin\Debug\DemoRepository.Data.dll
+D:\Projects\Misc\DemoRepository\DemoRepository.Testing\bin\Debug\DemoRepository.Entity.dll
+D:\Projects\Misc\DemoRepository\DemoRepository.Testing\bin\Debug\DemoRepository.Data.pdb
+D:\Projects\Misc\DemoRepository\DemoRepository.Testing\bin\Debug\DemoRepository.Entity.pdb
+D:\Projects\Misc\DemoRepository\DemoRepository.Testing\bin\Debug\DemoRepository.Repository.dll
+D:\Projects\Misc\DemoRepository\DemoRepository.Testing\bin\Debug\DemoRepository.Repository.pdb
