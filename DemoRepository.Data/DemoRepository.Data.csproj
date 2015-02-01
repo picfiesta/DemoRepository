@@ -43,6 +43,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="IRepositoryBase.cs" />
+    <Compile Include="Mappings\OrderMap.cs" />
     <Compile Include="Mappings\CustomerMap.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

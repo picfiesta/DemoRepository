@@ -17,7 +17,7 @@ namespace DemoRepository.Testing
     public class RepositoryFixtures
     {
         //private IRepository _repository;
-        //private UnitOfWork unitOfWork;  
+        //private UnitOfWork unitOfWork;
         private IRepositoryBase<Customer> customer;
         private MockRepository mockRepository;
         
@@ -29,6 +29,29 @@ namespace DemoRepository.Testing
             mockRepository = new MockRepository();
           //  _repository = new RepositoryBase();
             customer = mockRepository.DynamicMock<IRepositoryBase<Customer>>();
+        }
+
+
+        [TestMethod]
+        public void Table_RepositoryAction_NoException()
+        {
+            var list = new List<Customer>();
+            for (int i = 1; i<3; i++ )
+            {
+                Customer cust = new Customer();
+                cust.ID = i;
+                cust.AddedDate = DateTime.Now;
+                cust.ModifiedDate = DateTime.Now;
+                cust.CompanyName = "Hello";
+                cust.CustomerID = "ALIFL";
+                list.Add(cust);
+            }
+            using (mockRepository.Record())
+            {
+                customer.Table.ToList();
+                LastCall.Return(list);
+            }
+
         }
 
         [TestMethod]

@@ -13,11 +13,25 @@
 <asp:Content runat="server" ID="BodyContent" ContentPlaceHolderID="MainContent">
     <h3>Orders</h3>
     <p>
-        <asp:DataGrid ID="dgOrders" runat="server">
+        <asp:DataGrid ID="dgOrders" runat="server" AutoGenerateColumns="false">
             <Columns>
-                <asp:TemplateColumn HeaderText="OrderId"></asp:TemplateColumn>
-                <asp:TemplateColumn HeaderText="CompanyName"></asp:TemplateColumn>
-                <asp:TemplateColumn HeaderText="Country"></asp:TemplateColumn>
+                <asp:TemplateColumn HeaderText="OrderId">
+                    <ItemTemplate>
+                        <asp:Label ID="lblOrderId" runat="server" Text='<%#DataBinder.Eval(Container.DataItem, "OrderId") %>'></asp:Label>
+                    </ItemTemplate>
+                </asp:TemplateColumn>
+                <asp:TemplateColumn HeaderText="CompanyName">
+                         <ItemTemplate>
+                        <asp:Label ID="Label1" runat="server" Text='<%#DataBinder.Eval(Container.DataItem, "CompanyName") %>'></asp:Label>
+                    </ItemTemplate>
+               
+                </asp:TemplateColumn>
+                <asp:TemplateColumn HeaderText="Country">
+                         <ItemTemplate>
+                        <asp:Label ID="Label2"  runat="server" Text='<%#DataBinder.Eval(Container.DataItem, "Country") %>'></asp:Label>
+                    </ItemTemplate>
+               
+                </asp:TemplateColumn>
             </Columns>
         </asp:DataGrid>
 

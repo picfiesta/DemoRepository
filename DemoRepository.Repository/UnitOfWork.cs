@@ -8,7 +8,7 @@ using System.Threading.Tasks;
 
 namespace DemoRepository.Repository
 {
-    public class UnitOfWork : IDisposable
+    public class UnitOfWork : IDisposable, DemoRepository.Repository.IUnitOfWork
     {
         private readonly DemoRepositoryContext context;
         string errorMessage = string.Empty;   
