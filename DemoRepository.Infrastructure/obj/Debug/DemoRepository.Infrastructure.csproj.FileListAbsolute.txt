@@ -1,0 +1,14 @@
+D:\Projects\Misc\DemoRepository\DemoRepository.Infrastructure\obj\Debug\DemoRepository.Infrastructure.csprojResolveAssemblyReference.cache
+D:\Projects\Misc\DemoRepository\DemoRepository.Infrastructure\bin\Debug\DemoRepository.Infrastructure.dll
+D:\Projects\Misc\DemoRepository\DemoRepository.Infrastructure\bin\Debug\DemoRepository.Infrastructure.pdb
+D:\Projects\Misc\DemoRepository\DemoRepository.Infrastructure\bin\Debug\DemoRepository.Entity.dll
+D:\Projects\Misc\DemoRepository\DemoRepository.Infrastructure\bin\Debug\DemoRepository.Repository.dll
+D:\Projects\Misc\DemoRepository\DemoRepository.Infrastructure\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+D:\Projects\Misc\DemoRepository\DemoRepository.Infrastructure\bin\Debug\Microsoft.Practices.Unity.dll
+D:\Projects\Misc\DemoRepository\DemoRepository.Infrastructure\bin\Debug\EntityFramework.dll
+D:\Projects\Misc\DemoRepository\DemoRepository.Infrastructure\bin\Debug\DemoRepository.Data.dll
+D:\Projects\Misc\DemoRepository\DemoRepository.Infrastructure\bin\Debug\DemoRepository.Entity.pdb
+D:\Projects\Misc\DemoRepository\DemoRepository.Infrastructure\bin\Debug\DemoRepository.Repository.pdb
+D:\Projects\Misc\DemoRepository\DemoRepository.Infrastructure\bin\Debug\DemoRepository.Data.pdb
+D:\Projects\Misc\DemoRepository\DemoRepository.Infrastructure\obj\Debug\DemoRepository.Infrastructure.dll
+D:\Projects\Misc\DemoRepository\DemoRepository.Infrastructure\obj\Debug\DemoRepository.Infrastructure.pdb
