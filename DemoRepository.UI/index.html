@@ -1,0 +1,27 @@
+﻿<!DOCTYPE html>
+<html ng-app="testApp">
+<head>
+    <title></title>
+</head>
+<body>
+    <div>
+        <div ng-controller="TestController">
+            <table>
+                <tr>
+                    <th>OrderId</th>
+                    <th>Company</th>
+                    <th>Country</th>
+                </tr>
+                <tr ng-repeat="order in orders">
+                    <td>{{order.OrderId}}</td>
+                    <td>{{order.CompanyName}}</td>
+                    <td>{{order.Country}}</td>
+                </tr>
+            </table>
+        </div>
+    </div>
+</body>
+<script src="Scripts/angular.js"></script>
+<script src="Scripts/app.js"></script>
+
+</html>
